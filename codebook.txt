@@ -1,0 +1,17 @@
+The averages.txt contains the average of each variable for each activity and each subject
+
+
+(NEW!)Attributes of averages.txt
+================================
+the file contains 8 columns:
+
+variable : name of the variable for which the mean is calculated
+subject_ID : id of the subject (range 1 to 30)
+WALKING : average of the variable for given subject for this activity
+WALKING_UPSTAIRS : average of the variable for given subject for this activity
+WALKING_DOWNSTAIRS : average of the variable for given subject for this activity
+SITTING : average of the variable for given subject for this activity
+STANDING : average of the variable for given subject for this activity
+LAYING : average of the variable for given subject for this activity
+
+all values numeric, except for the variable name
